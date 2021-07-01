@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nico
 
-I'm a self taught, student developer from Austria 🇦🇹.  
+I'm a self taught, student developer from Austria.  
 I like coding Discord bots and just generally things with Node.js.
 
 ## About Me 👨‍💻
@@ -28,10 +28,14 @@ I like coding Discord bots and just generally things with Node.js.
 <a href= https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href= https://github.com/Nico105?tab=repositories&q=&type=&language=solidworks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidworks.svg'> </a>
 
+## Contact 📞
+
+I'm most of the time available in [Discord](https://discordapp.com/users/391243477058584588)
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Nico105](https://github-readme-stats.vercel.app/api?username=nico105&count_private=true&show_icons=true&theme=tokyonight&title_color=ff7700)
 
 ![Nico105](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico105&&theme=tokyonight&title_color=ff7700)
 
-![Nico105](https://github-readme-streak-stats.herokuapp.com?user=nico105&theme=tokyonight&hide_border=true)
+![Nico105](https://github-readme-streak-stats.herokuapp.com?user=nico105&theme=tokyonight)
