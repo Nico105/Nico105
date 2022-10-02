@@ -5,8 +5,6 @@ I like coding Discord bots and just generally things with Node.js.
 
 ## About Me 👨‍💻
 
--   🔭 I’m currently collaborating on [discord-giveaways](https://github.com/Androz2091/discord-giveaways)
-
 -   🌱 I’m currently learning **TypeScript**
 
 -   💬 Talk to me about JavaScript & Node.js
