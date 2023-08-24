@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nico
 
 I'm a self taught, student developer from Austria.  
-I like coding Discord bots and just generally things with Node.js.
+I like coding Discord bots and just generally things with Node.js.  
 Through school and internships I'm also quite fond of the Arduino platform and like to write programs for microcontrollers.
 
 ## About Me 👨‍💻
