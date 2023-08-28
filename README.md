@@ -41,4 +41,4 @@ I'm most of the time available in [Discord](https://discordapp.com/users/3912434
 ![Nico105](https://github-readme-streak-stats.herokuapp.com?user=nico105&theme=tokyonight)
 
  <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico105&custom_title=Nico's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Nico105"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico105&custom_title=Nico's%20Contribution%20Graph&theme=tokyo-night&count-private=true" alt="Nico105"  />
