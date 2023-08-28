@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nico
 
 I'm a self taught, student developer from Austria.  
-I like coding Discord bots and just generally things with Node.js.  
+I like coding Discord bots, utility tools and just generally things with Node.js.  
 Through school and internships I'm also quite fond of the Arduino platform and like to write programs for microcontrollers.
 
 ## About Me 👨‍💻
@@ -34,7 +34,7 @@ I'm most of the time available in [Discord](https://discordapp.com/users/3912434
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=32> </h2>
 
-![Nico105](https://github-readme-stats-nico105.vercel.app/api?username=nico105&count_private=true&show_icons=true&theme=tokyonight&title_color=ff7700&show=reviews,prs_merged,prs_merged_percentage)
+![Nico105](https://github-readme-stats-nico105.vercel.app/api?username=nico105&count_private=true&show_icons=true&theme=tokyonight&title_color=ff7700&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ![Nico105](https://github-readme-stats-nico105.vercel.app/api/top-langs/?username=Nico105&&theme=tokyonight&title_color=ff7700&layout=donut)
 
